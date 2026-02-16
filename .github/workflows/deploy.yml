@@ -54,4 +54,5 @@ jobs:
 
       - name: Show CloudFront URL
         run: |
-          cd terraform && terraform output cloudfront_domain_nameterraform init
+          echo "Deployment complete! CloudFront URL will be available after distribution is fully deployed."
+          echo "Check your CloudFront distribution in AWS Console for the URL."
