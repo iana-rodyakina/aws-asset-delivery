@@ -54,4 +54,4 @@ jobs:
 
       - name: Show CloudFront URL
         run: |
-          cd terraform && terraform output cloudfront_domain_name
+          cd terraform && terraform output cloudfront_domain_nameterraform init
