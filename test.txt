@@ -1,0 +1,2 @@
+Hello! This file is served via CloudFront with OAC-secured S3 bucket.
+Infrastructure provisioned with Terraform by Iana.
